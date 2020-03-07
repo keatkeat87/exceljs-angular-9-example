@@ -56,10 +56,7 @@
  * Zone JS is required by default for Angular itself.
  */
 
-import 'core-js/modules/es.promise';
-import 'core-js/modules/es.object.assign';
-import 'core-js/modules/es.object.keys';
-import 'regenerator-runtime/runtime';
+
 import 'zone.js/dist/zone';  // Included with Angular CLI.
 // import * as exceljs from 'exceljs';
 // console.log('exceljs', exceljs);
